@@ -1,0 +1,24 @@
+{
+    "workbench.iconTheme": "symbols",
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit",
+        "source.organizeImports": "explicit"
+    },
+    "editor.formatOnSave": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.fontFamily": "'FiraCode Nerd Font Mono',Consolas, 'Courier New', 'Noto',monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 12,
+    "terminal.integrated.fontFamily": "'CaskaydiaCove Nerd Font Mono','MesloLGS NF'",
+    "terminal.integrated.tabs.location": "left",
+    "window.menuBarVisibility": "toggle",
+    "window.newWindowProfile": "Default",
+    "terminal.integrated.inheritEnv": true,
+    "git.autofetch": true,
+    "debug.toolBarLocation": "docked",
+    "workbench.colorTheme": "Ducke Theme",
+    "editor.guides.bracketPairs": "active",
+    "window.titleBarStyle": "native",
+    "window.customTitleBarVisibility": "never",
+    "workbench.panel.showLabels": false,
+}
